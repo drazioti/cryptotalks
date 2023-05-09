@@ -8,3 +8,5 @@
 [4] Introduction to XSS attacs (Neron Panagiotopoulos)
 
 [5] DDoS Attacks (Stefanos Anastasiades)
+
+[6] Visual Cryptography (Myrto Eleftheria Gkogkou)
