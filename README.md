@@ -5,7 +5,7 @@
 
 [3] Integer multiplication algorithms (Asimakis Kydros)
 
-[4] Introduction to XSS attacs (Neron Panagiotopoulos)
+[4] Introduction to XSS attacs (Neron Panagiotopoulos) [in Greek]
 
 [5] DDoS Attacks (Stefanos Anastasiades)
 
