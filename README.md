@@ -10,3 +10,6 @@
 **[5]** DDoS Attacks (Stefanos Anastasiades)
 
 **[6]** Visual Cryptography (Myrto Eleftheria Gkogkou)
+
+**[7]** Obfuscation Methods (D. Yfantidis) [in Greek]
+
