@@ -13,3 +13,5 @@
 
 **[7]** Obfuscation Methods (D. Yfantidis) [in Greek]
 
+**[8]** Tools for Lattice Based Cryptography (A. Korkos) 
+
