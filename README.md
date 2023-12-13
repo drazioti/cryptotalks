@@ -15,3 +15,4 @@
 
 **[8]** Tools for Lattice Based Cryptography (A. Korkos) 
 
+**[9]** Secure Pseudo Random Generators (G. Tsotoulidis) 
